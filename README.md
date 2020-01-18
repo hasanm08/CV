@@ -1,7 +1,8 @@
 # CV
-my Programing CV --- telegram:t.me/hasanm08 ----instagram:instagram.com/hasanm108
-
+my Programing CV 
+<a href="t.me/hasanm08" >telegram  </a> <br>
+<a href="instagram.com/hasanm108" >instagram  </a> <br>
 For More See : Github.com/hasanm08
 
-Open The Pdf File Or us My <a href="https://hasanm08.github.io" >Github Page </a>
+ Open The Pdf File Or use  <a href="https://hasanm08.github.io" >My Github Page </a>
 
